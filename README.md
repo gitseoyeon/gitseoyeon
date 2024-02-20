@@ -6,6 +6,7 @@
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitseoyeon&layout=compact&theme=nord&hide_border=true" /></a>
 
+
 ![SeoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitseoyeon&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus5539)](https://solved.ac/tjdus5539/)
