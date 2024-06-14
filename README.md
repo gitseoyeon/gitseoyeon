@@ -21,7 +21,7 @@
 <br>
 <div align="center"><h3>✨ Stats</h3></div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitseoyeon&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitseoyeon&show_icons=true&theme=dracula">
 </p>
 
 
