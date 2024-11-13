@@ -1,6 +1,16 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gitseoyeon🫧&fontSize=90" />
 
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/gitseoyeon"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+
 <div align="center"><h3>📌 Tech Stack</h3> </div>
 <br>
 <div align="center">
